@@ -7,7 +7,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://perezluismariano.github.io/OrderSumaryCard/)
+- Live Site URL: [Add live site URL here](https://perezluismariano.github.io/FrontendMentor/)
 
 ### Built with
 - Semantic HTML5 markup
