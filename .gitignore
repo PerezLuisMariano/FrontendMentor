@@ -16,8 +16,6 @@
 .prettierignore
 
 # Avoid design directory
-/design
 
 # Avoid some files
 style-guide.md
-README-template.md
