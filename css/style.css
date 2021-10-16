@@ -1,0 +1,18 @@
+/*BASE*/
+:root{
+    /*COLORS*/
+    --main_pale-blue: hsl(225, 100%, 94%);
+    --main_bright-blue: hsl(245, 75%, 52%);
+    --second_very-pale-blue: hsl(225, 100%, 98%);
+    --second_desaturated-blue: hsl(224, 23%, 55%);
+    --second_dark-blue: hsl(223, 47%, 23%);
+
+    --main_font-family: "Red Hat Display", sans serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--main_font-family);
+    font-size: 62.5%;
+}
