@@ -2,12 +2,11 @@
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
 
 ### Screenshot
-![](./design/version-desk.jpg)
-![](./design/version-mobile.jpg)
+![version-desk](design/Me/version-desk.jpg)
 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://perezluismariano.github.io/FrontendMentor/)
+- [Live Site ](https://perezluismariano.github.io/FrontendMentor/)
 
 ### Built with
 - Semantic HTML5 markup
