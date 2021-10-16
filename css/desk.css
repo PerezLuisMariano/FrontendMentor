@@ -23,7 +23,7 @@
 
 body{
     background-color: var(--main_pale-blue);
-    background-image: url(../images/pattern-background-mobile.svg);
+    background-image: url(../images/pattern-background-desktop.svg);
     background-position: top;
     background-repeat: no-repeat;
     background-size: contain;
@@ -46,7 +46,7 @@ main .container-card{
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 310px;
+    width: 350px;
     height: auto;
     background-color: white;
     border-radius: 20px;
@@ -54,7 +54,7 @@ main .container-card{
 }
 /*MAIN CONTAINER COVER*/
 main .container-card__cover img{
-    width: 310px;;
+    width: 350px;;
     margin: 0 0 30px 0;
     border-radius: 20px 20px 0 0;
     
@@ -64,7 +64,7 @@ main .container-card__text{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 85%;
+    width: 80%;
     height: auto;
     font-family: var(--main_font-family);
 }
@@ -89,7 +89,7 @@ main .container-card__plans{
     align-items: center;
     padding: 15px;
     margin: 0 0 30px 0;
-    width: 85%;
+    width: 80%;
     height: auto;
     background-color: var(--second_very-pale-blue);
     border-radius: 15px;
@@ -126,7 +126,7 @@ main .container-card__plans button{
 
 /*MAIN CONTAINER BUTTONS*/
 main .container-card__buttons_payment{
-    width: 85%;
+    width: 80%;
     height: 45px;
     margin: 0 0 30px 0;
     font-weight: 700;
@@ -148,11 +148,9 @@ main .container-card__buttons_cancel{
     cursor: pointer;
 }
 
-
-
 /*FOOTER*/
 footer .attribution{
-    position: relative;
+    position: fixed;
     display: flex;
     flex-direction: row;
     justify-content: center;
