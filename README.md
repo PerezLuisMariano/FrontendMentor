@@ -6,7 +6,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 
 ### Links
-- [Live Site ](https://perezluismariano.github.io/FrontendMentor/)
+- [Live Site ](https://perezluismariano.github.io/Order-Summary-Card/)
 
 ### Built with
 - Semantic HTML5 markup
