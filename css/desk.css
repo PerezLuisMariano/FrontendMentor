@@ -136,7 +136,8 @@ main .container-card__plans button{
     cursor: pointer;
 }
 main .container-card__plans button:hover{
-    transform: scale(1.05, 1.05);
+    transform: scale(1.06, 1.06);
+
 }
 
 /*MAIN CONTAINER BUTTONS*/
