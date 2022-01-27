@@ -122,6 +122,9 @@ main .container-card__plans button{
     text-decoration: underline;
     cursor: pointer;
 }
+main .container-card__plans button:hover{
+    transform: scale(1.05, 1.05);
+}
 
 /*MAIN CONTAINER BUTTONS*/
 main .container-card__buttons_payment{
@@ -137,6 +140,7 @@ main .container-card__buttons_payment{
     border: none;
     cursor: pointer;
 }
+
 main .container-card__buttons_cancel{
     margin: 0 0 30px 0;
     font-weight: 700;
@@ -145,6 +149,9 @@ main .container-card__buttons_cancel{
     background: none;
     border: none;
     cursor: pointer;
+}
+main .container-card__buttons_cancel:hover{
+    color: var(--main_bright-blue)
 }
 
 /*FOOTER*/
